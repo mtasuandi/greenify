@@ -1,2 +1,2 @@
-# greenify
+# Greenify
 Green your contributions graph.
